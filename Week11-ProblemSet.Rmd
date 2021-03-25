@@ -1,7 +1,7 @@
 ---
 title: "STA130 -- Winter 2021"
 author: "N. Moon & S. Caetano"
-subtitle: Week 11 Problem Set — Part 1 Sample Answers
+subtitle: Week 11 Problem Set
 output:
   pdf_document: default
   html_document: default
